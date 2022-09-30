@@ -17,6 +17,19 @@ import java.util.List;
 import mao.android_contentresolver.entity.Student;
 import mao.android_contentresolver.resolver.StudentResolver;
 
+
+/**
+ * Class(类名): MainActivity
+ * Author(作者）: mao
+ * Author QQ：1296193245
+ * GitHub：https://github.com/maomao124/
+ * Date(创建日期)： 2022/9/30
+ * Time(创建时间)： 22:06
+ * Version(版本): 1.0
+ * Description(描述)： 无
+ */
+
+
 public class MainActivity extends AppCompatActivity
 {
 
