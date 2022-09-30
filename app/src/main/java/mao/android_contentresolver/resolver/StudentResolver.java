@@ -30,7 +30,7 @@ public class StudentResolver
     /**
      * 上下文
      */
-    private Context context;
+    private final Context context;
 
 
     /**
